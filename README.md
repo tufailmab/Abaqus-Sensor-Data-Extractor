@@ -5,6 +5,15 @@
   <p>
     This Python script extracts nodal displacement data (U1, U2, U3) from a selected part in an Abaqus <code>.odb</code> file and exports the results to organized text and Excel files. It automates sensor-based data extraction for extensometers, mesh sensitivity studies, and structural post-processing. (This tool was originally developed as part of a PhD research project in Pakistan. The affiliated university is intentionally not disclosed for confidentiality purposes).
   </p>
+  Watch this video for a quick overview and demonstration of the Export Sensor Displacement Data script in Abaqus: <br><br>
+  <p align="center">
+    <a href="https://www.youtube.com/watch?v=lOZRz2A5Vw4">
+      <img src="https://img.youtube.com/vi/lOZRz2A5Vw4/maxresdefault.jpg"
+           alt="Abaqus Export Sensor Displacement Demo"
+           width="640"
+           style="border:3px solid black;border-radius:10px;">
+    </a>
+  </p>
 
   <h2>Features</h2>
   <ul>
